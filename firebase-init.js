@@ -1,12 +1,12 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD1ApCkzPbBRNJUCkAGet9DBKb1uE9O1Bo",
-  authDomain: "djen-com-minuta.firebaseapp.com",
-  projectId: "djen-com-minuta",
-  storageBucket: "djen-com-minuta.firebasestorage.app",
-  messagingSenderId: "498664224312",
-  appId: "1:498664224312:web:6de6a453d9e36138a398cd",
-  measurementId: "G-MCV0ZCD3Y1"
+  apiKey: "AIzaSyDj8MJSyAdL_GtHgVXScaGe0JxRqKojKE0",
+  authDomain: "calculadora-djen-interna.firebaseapp.com",
+  projectId: "calculadora-djen-interna",
+  storageBucket: "calculadora-djen-interna.firebasestorage.app",
+  messagingSenderId: "460535734989",
+  appId: "1:460535734989:web:c0b14fa985dc48775f3f84",
+  measurementId: "G-Q1GLR377MN"
 };
 
 // Inicializa o Firebase e torna as variáveis globais
